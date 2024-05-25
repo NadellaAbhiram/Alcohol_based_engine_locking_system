@@ -1,0 +1,14 @@
+
+Drunk driving, a global concern, contributes significantly to road accidents, injuries, 
+and fatalities. This project presents the development of an engine locking system 
+integrated with an alcohol detection sensor, aiming to deter drunk driving and 
+improve road safety. By detecting driver intoxication exceeding a pre-determined 
+threshold, the system utilizes an engine immobilization mechanism to prevent 
+vehicle startup. Additionally, visual and audible alerts are implemented for 
+warnings, and data logging capabilities capture detection events. The project 
+involves selecting and integrating hardware components like the sensor, 
+microcontroller, and immobilization mechanism, alongside software development 
+for data acquisition, analysis, and control logic. While the successful project 
+contributes to potential road safety improvements, ethical considerations and legal 
+implications surrounding such technologies require further research and responsible 
+implementation
