@@ -1,15 +1,5 @@
 # Alcohol_based_engine_locking_system
 
-#AUTOMOTIVE ELECTRONICS (21ECE112)
- # Mini Project Report on
-#  “Engine Locking System based on Alcohol detection”
-  Submitted by
-#  N S K Abhiram 4NM21EC078
- # Nagesh Nayak 4NM21EC081
-  Naveen 4NM21EC082
-  DEPARTMENT OF ECE, NMAMIT, NITTE 2
-  DEPARTMENT OF ELECTRONICS & COMMUNICATION ENGINEERING
-  2023-2024
   TABLE OF CONTENT
   Abstract 3
   1. Introduction 4
